@@ -1,3 +1,7 @@
 yandex.ru
 *.okta.com
 www.freshdirect.com
+
+(^|\.)yandex\.ru$
+(^|\.)okta\.com$
+|www\.freshdirect\.com$

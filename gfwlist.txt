@@ -1,7 +1,6 @@
-yandex.ru
-*.okta.com
-www.freshdirect.com
+[bypass_all]
 
-(^|\.)yandex\.ru$
+[proxy_list]
+(^|\.)dzen\.ru$
 (^|\.)okta\.com$
-||www\.freshdirect\.com
+(^|\.)freshdirect\.com

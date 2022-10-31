@@ -4,3 +4,4 @@
 (^|\.)dzen\.ru$
 (^|\.)freshdirect\.com
 ^.*\.okta\.com$
+(^|\.)login\.microsoftonline\.com

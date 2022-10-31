@@ -5,3 +5,4 @@
 (^|\.)freshdirect\.com
 ^.*\.okta\.com$
 (^|\.)login\.microsoftonline\.com
+^.*\.microsoft\.com

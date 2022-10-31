@@ -2,7 +2,7 @@
 
 [proxy_list]
 (^|\.)dzen\.ru$
-(^|\.)freshdirect\.com
+(^|\.)www\.freshdirect\.com
 ^.*\.okta\.com$
 (^|\.)login\.microsoftonline\.com
 ^.*\.microsoft\.com

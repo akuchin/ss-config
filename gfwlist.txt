@@ -2,5 +2,5 @@
 
 [proxy_list]
 (^|\.)dzen\.ru$
-(^|\.)okta\.com$
 (^|\.)freshdirect\.com
+^.*\.okta\.com$

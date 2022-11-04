@@ -4,6 +4,7 @@
 (^|\.)dzen\.ru$
 (^|\.)www\.freshdirect\.com
 (^|\.)fdtest01\.freshdirect\.com
+(^|\.)fdtest\.freshdirect\.com
 ^.*\.okta\.com$
 (^|\.)login\.microsoftonline\.com
 ^.*\.microsoft\.com
